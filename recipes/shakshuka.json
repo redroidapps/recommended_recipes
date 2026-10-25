@@ -1,0 +1,37 @@
+{
+  "id": "shakshuka",
+  "category": "Breakfast",
+  "country": "Tunisia",
+  "prepMinutes": 10,
+  "cookMinutes": 20,
+  "servings": 2,
+  "title": {
+    "en": "Shakshuka",
+    "ro": "Shakshuka",
+    "ar": "شكشوكة"
+  },
+  "description": {
+    "en": "Eggs poached in a spiced tomato and pepper sauce.",
+    "ro": "Ouă pocate într-un sos condimentat de roșii și ardei.",
+    "ar": "بيض مطهو في صلصة طماطم وفلفل متبلة."
+  },
+  "ingredients": [
+    "2 tbsp olive oil",
+    "1 onion, diced",
+    "1 red pepper, diced",
+    "2 cloves garlic, minced",
+    "1 tsp paprika",
+    "1/2 tsp ground cumin",
+    "400 g canned chopped tomatoes",
+    "4 eggs",
+    "Salt and black pepper",
+    "Fresh parsley or coriander to serve"
+  ],
+  "steps": [
+    "Heat the oil in a wide pan and cook the onion and pepper for 6 minutes until soft.",
+    "Add the garlic, paprika and cumin and stir for 1 minute.",
+    "Pour in the tomatoes, season, and simmer for 8 minutes until thick.",
+    "Make four hollows in the sauce and crack an egg into each.",
+    "Cover and cook for 5 to 6 minutes until the whites are set. Scatter the herbs and serve with bread."
+  ]
+}

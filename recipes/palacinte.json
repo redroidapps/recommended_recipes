@@ -1,0 +1,54 @@
+{
+  "id": "palacinte",
+  "category": "Dessert",
+  "country": "Romania",
+  "prepMinutes": 10,
+  "cookMinutes": 20,
+  "servings": 4,
+  "title": {
+    "en": "Romanian Crepes with Jam",
+    "ro": "Clătite cu dulceață",
+    "ar": "كريب روماني بالمربى"
+  },
+  "description": {
+    "en": "Thin crepes rolled around fruit jam.",
+    "ro": "Clătite subțiri rulate cu dulceață de fructe.",
+    "ar": "كريب رقيق ملفوف بمربى الفواكه."
+  },
+  "ingredients": [
+    "2 eggs",
+    "250 ml milk",
+    "125 ml sparkling water",
+    "150 g flour",
+    "1 tbsp sugar",
+    "Pinch of salt",
+    "Oil for the pan",
+    "Fruit jam to fill"
+  ],
+  "steps": [
+    "Whisk the eggs, milk and sparkling water, then add the flour, sugar and salt and whisk until smooth.",
+    "Rest the batter for 15 minutes.",
+    "Brush a pan with oil and cook a thin layer of batter for about 1 minute on each side.",
+    "Spread each crepe with jam, roll it up and serve warm."
+  ],
+  "translations": {
+    "ro": {
+      "ingredients": [
+        "2 ouă",
+        "250 ml de lapte",
+        "125 ml de apă minerală",
+        "150 g de făină",
+        "1 lingură de zahăr",
+        "Un praf de sare",
+        "Ulei pentru tigaie",
+        "Dulceață de fructe pentru umplut"
+      ],
+      "steps": [
+        "Bate ouăle cu laptele și apa minerală, apoi adaugă făina, zahărul și sarea și amestecă până se omogenizează.",
+        "Lasă aluatul să se odihnească 15 minute.",
+        "Unge tigaia cu ulei și coace un strat subțire de aluat cam 1 minut pe fiecare parte.",
+        "Unge fiecare clătită cu dulceață, rulează și servește caldă."
+      ]
+    }
+  }
+}

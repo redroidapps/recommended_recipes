@@ -1,0 +1,21 @@
+name: Check feed
+
+# Every push and pull request: all recipes must pass the checks and docs/feed.json must match them.
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - name: Validate recipes and check the built feed
+        run: python scripts/feed_tool.py verify

@@ -1,0 +1,35 @@
+{
+  "id": "basbousa",
+  "category": "Dessert",
+  "country": "Egypt",
+  "prepMinutes": 15,
+  "cookMinutes": 35,
+  "servings": 12,
+  "title": {
+    "en": "Basbousa",
+    "ro": "Basbousa",
+    "ar": "بسبوسة"
+  },
+  "description": {
+    "en": "Soft semolina cake soaked in lemon syrup.",
+    "ro": "Prăjitură fragedă din griș, înmuiată în sirop de lămâie.",
+    "ar": "كيكة سميد طرية مغموسة بشراب الليمون."
+  },
+  "ingredients": [
+    "2 cups fine semolina",
+    "1 cup plain yoghurt",
+    "3/4 cup sugar",
+    "1/2 cup melted butter",
+    "1 tsp baking powder",
+    "12 blanched almonds",
+    "For the syrup: 1 cup sugar, 1 cup water, 1 tbsp lemon juice"
+  ],
+  "steps": [
+    "Heat the oven to 180 C and grease a square tin.",
+    "Mix the semolina, yoghurt, sugar, butter and baking powder and let it rest for 10 minutes.",
+    "Spread in the tin, cut into diamonds and press an almond into each piece.",
+    "Bake for 30 to 35 minutes until golden.",
+    "Meanwhile boil the syrup ingredients for 8 minutes and let it cool.",
+    "Pour the cool syrup over the hot cake and leave it to soak for 20 minutes."
+  ]
+}

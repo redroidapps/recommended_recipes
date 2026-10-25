@@ -1,0 +1,34 @@
+{
+  "id": "tabbouleh",
+  "category": "Lunch",
+  "country": "Lebanon",
+  "prepMinutes": 20,
+  "cookMinutes": 0,
+  "servings": 4,
+  "title": {
+    "en": "Tabbouleh",
+    "ro": "Tabbouleh",
+    "ar": "تبولة"
+  },
+  "description": {
+    "en": "A fresh parsley salad with tomato, mint and bulgur.",
+    "ro": "O salată proaspătă de pătrunjel cu roșii, mentă și bulgur.",
+    "ar": "سلطة بقدونس طازجة مع الطماطم والنعناع والبرغل."
+  },
+  "ingredients": [
+    "3 bunches flat-leaf parsley, finely chopped",
+    "1/4 cup fine bulgur, soaked in water for 15 minutes and drained",
+    "3 ripe tomatoes, diced",
+    "1/2 cup chopped mint",
+    "4 spring onions, sliced",
+    "4 tbsp lemon juice",
+    "4 tbsp olive oil",
+    "Salt and pepper"
+  ],
+  "steps": [
+    "Squeeze the soaked bulgur dry and put it in a bowl.",
+    "Add the parsley, mint, tomatoes and spring onions.",
+    "Dress with the lemon juice and olive oil, season, and toss gently.",
+    "Rest for 10 minutes and serve with crisp lettuce leaves."
+  ]
+}

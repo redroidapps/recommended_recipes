@@ -1,0 +1,50 @@
+{
+  "id": "hummus",
+  "category": "Snacks",
+  "country": "Lebanon",
+  "prepMinutes": 10,
+  "cookMinutes": 0,
+  "servings": 6,
+  "title": {
+    "en": "Hummus",
+    "ro": "Humus",
+    "ar": "حمّص"
+  },
+  "description": {
+    "en": "Smooth chickpea and tahini dip, ready in ten minutes.",
+    "ro": "Pastă fină de năut și tahini, gata în zece minute.",
+    "ar": "غموس ناعم من الحمص والطحينة جاهز في عشر دقائق."
+  },
+  "ingredients": [
+    "400 g canned chickpeas, drained",
+    "3 tbsp tahini",
+    "2 tbsp lemon juice",
+    "1 clove garlic",
+    "3 tbsp cold water",
+    "1/2 tsp salt",
+    "Olive oil and paprika to serve"
+  ],
+  "steps": [
+    "Blend the tahini and lemon juice for 1 minute until pale and thick.",
+    "Add the garlic, chickpeas and salt and blend until very smooth, adding the cold water a spoon at a time.",
+    "Spread on a plate, drizzle with olive oil and dust with paprika."
+  ],
+  "translations": {
+    "ar": {
+      "ingredients": [
+        "400 غرام حمص معلّب مصفّى",
+        "3 ملاعق كبيرة طحينة",
+        "ملعقتان كبيرتان عصير ليمون",
+        "فص ثوم",
+        "3 ملاعق كبيرة ماء بارد",
+        "نصف ملعقة صغيرة ملح",
+        "زيت زيتون وبابريكا للتقديم"
+      ],
+      "steps": [
+        "اخفقي الطحينة وعصير الليمون في الخلاط دقيقة حتى يصبح الخليط فاتحاً وسميكاً.",
+        "أضيفي الثوم والحمص والملح واخلطي حتى يصبح ناعماً جداً مع إضافة الماء البارد ملعقة ملعقة.",
+        "افرديه في صحن ورشي عليه زيت الزيتون والبابريكا."
+      ]
+    }
+  }
+}

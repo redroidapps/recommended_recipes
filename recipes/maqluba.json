@@ -1,0 +1,64 @@
+{
+  "id": "maqluba",
+  "category": "Dinner",
+  "country": "Palestine",
+  "prepMinutes": 30,
+  "cookMinutes": 60,
+  "servings": 6,
+  "title": {
+    "en": "Maqluba",
+    "ro": "Maqluba",
+    "ar": "مقلوبة"
+  },
+  "description": {
+    "en": "A layered pot of rice, vegetables and chicken that is turned upside down to serve.",
+    "ro": "O oală cu straturi de orez, legume și pui, răsturnată la servire.",
+    "ar": "قدر من طبقات الأرز والخضار والدجاج يُقلب عند التقديم."
+  },
+  "ingredients": [
+    "1 whole chicken, cut into pieces",
+    "2 aubergines, sliced",
+    "1 small cauliflower, in florets",
+    "2 large tomatoes, sliced",
+    "2 cups basmati rice, rinsed",
+    "1 tsp allspice",
+    "1 tsp turmeric",
+    "1 cinnamon stick",
+    "Oil for frying",
+    "Salt and pepper",
+    "Toasted almonds to serve"
+  ],
+  "steps": [
+    "Simmer the chicken with the cinnamon, half the allspice and salt in 4 cups of water for 30 minutes. Keep the stock.",
+    "Fry the aubergine and cauliflower until golden and drain them.",
+    "Line the base of a heavy pot with the tomato slices, then layer the chicken, the vegetables and the rice.",
+    "Mix the turmeric and the rest of the allspice into 3 cups of the hot stock and pour it over the rice.",
+    "Cook covered on low heat for 35 minutes, then rest for 10 minutes.",
+    "Turn the pot over onto a large platter, lift it off, and top with almonds."
+  ],
+  "translations": {
+    "ar": {
+      "ingredients": [
+        "دجاجة كاملة مقطعة",
+        "حبتا باذنجان مقطعتان شرائح",
+        "قرنبيط صغير مقطع",
+        "حبتا طماطم كبيرتان مقطعتان شرائح",
+        "كوبان من أرز البسمتي مغسول",
+        "ملعقة صغيرة بهار حلو",
+        "ملعقة صغيرة كركم",
+        "عود قرفة",
+        "زيت للقلي",
+        "ملح وفلفل",
+        "لوز محمص للتقديم"
+      ],
+      "steps": [
+        "اسلقي الدجاج مع القرفة ونصف البهار الحلو والملح في 4 أكواب ماء لمدة 30 دقيقة واحتفظي بالمرق.",
+        "اقلي الباذنجان والقرنبيط حتى يحمرّا وصفّيهما.",
+        "افرشي قاع قدر ثقيل بشرائح الطماطم ثم رصّي الدجاج والخضار والأرز.",
+        "اخلطي الكركم وباقي البهار الحلو مع 3 أكواب من المرق الساخن وصبّيه فوق الأرز.",
+        "اتركيه مغطى على نار هادئة 35 دقيقة ثم دعيه يرتاح 10 دقائق.",
+        "اقلبي القدر على صحن كبير وارفعيه وزيّنيه باللوز."
+      ]
+    }
+  }
+}

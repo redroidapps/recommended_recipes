@@ -1,0 +1,32 @@
+{
+  "id": "spaghetti-aglio-e-olio",
+  "category": "Dinner",
+  "country": "Italy",
+  "prepMinutes": 5,
+  "cookMinutes": 12,
+  "servings": 2,
+  "title": {
+    "en": "Spaghetti Aglio e Olio",
+    "ro": "Spaghete aglio e olio",
+    "ar": "سباغيتي بالثوم والزيت"
+  },
+  "description": {
+    "en": "Garlic, olive oil and chilli: dinner in fifteen minutes.",
+    "ro": "Usturoi, ulei de măsline și ardei iute: cină în cincisprezece minute.",
+    "ar": "ثوم وزيت زيتون وفلفل حار: عشاء في خمس عشرة دقيقة."
+  },
+  "ingredients": [
+    "200 g spaghetti",
+    "4 tbsp olive oil",
+    "4 cloves garlic, thinly sliced",
+    "1/2 tsp chilli flakes",
+    "Small bunch of parsley, chopped",
+    "Salt"
+  ],
+  "steps": [
+    "Cook the spaghetti in well-salted water until just al dente. Keep a cup of the pasta water.",
+    "Warm the oil with the garlic over low heat until pale gold, then add the chilli.",
+    "Add the drained spaghetti and a splash of pasta water and toss for 1 minute.",
+    "Finish with the parsley and serve at once."
+  ]
+}

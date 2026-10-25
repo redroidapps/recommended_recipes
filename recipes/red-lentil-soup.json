@@ -1,0 +1,35 @@
+{
+  "id": "red-lentil-soup",
+  "category": "Lunch",
+  "country": "Lebanon",
+  "prepMinutes": 10,
+  "cookMinutes": 30,
+  "servings": 4,
+  "title": {
+    "en": "Red Lentil Soup",
+    "ro": "Supă de linte roșie",
+    "ar": "شوربة العدس الأحمر"
+  },
+  "description": {
+    "en": "A smooth, lemony soup that comes together in one pot.",
+    "ro": "O supă cremoasă cu lămâie, gătită într-o singură oală.",
+    "ar": "شوربة ناعمة بالليمون تُطهى في قدر واحد."
+  },
+  "ingredients": [
+    "1 cup red lentils, rinsed",
+    "1 onion, chopped",
+    "2 carrots, diced",
+    "2 cloves garlic",
+    "1 tsp ground cumin",
+    "1 tbsp olive oil",
+    "1 L vegetable stock or water",
+    "Juice of 1 lemon",
+    "Salt and pepper"
+  ],
+  "steps": [
+    "Soften the onion, carrots and garlic in the oil for 5 minutes.",
+    "Stir in the cumin, then add the lentils and the stock.",
+    "Bring to the boil, then simmer for 20 minutes until the lentils collapse.",
+    "Blend until smooth, stir in the lemon juice and season to taste."
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "mamaliga-with-cheese",
+  "category": "Lunch",
+  "country": "Romania",
+  "prepMinutes": 5,
+  "cookMinutes": 25,
+  "servings": 4,
+  "title": {
+    "en": "Polenta with Cheese",
+    "ro": "Mămăligă cu brânză",
+    "ar": "بولينتا بالجبن"
+  },
+  "description": {
+    "en": "Creamy cornmeal porridge topped with salty cheese and sour cream.",
+    "ro": "Mămăligă cremoasă cu brânză sărată și smântână.",
+    "ar": "عصيدة ذرة كريمية مع جبن مالح وقشدة حامضة."
+  },
+  "ingredients": [
+    "1 L water",
+    "1 tsp salt",
+    "250 g coarse cornmeal",
+    "1 tbsp butter",
+    "150 g salty white cheese, crumbled",
+    "4 tbsp sour cream"
+  ],
+  "steps": [
+    "Bring the salted water to the boil.",
+    "Pour in the cornmeal in a thin stream, whisking so no lumps form.",
+    "Lower the heat and stir with a wooden spoon for 20 minutes until it pulls away from the pot.",
+    "Stir in the butter, spoon onto plates and top with the cheese and sour cream."
+  ],
+  "translations": {
+    "ro": {
+      "ingredients": [
+        "1 L de apă",
+        "1 linguriță de sare",
+        "250 g de mălai grosier",
+        "1 lingură de unt",
+        "150 g de brânză sărată, mărunțită",
+        "4 linguri de smântână"
+      ],
+      "steps": [
+        "Fierbe apa cu sare.",
+        "Toarnă mălaiul în fir subțire, amestecând continuu ca să nu se formeze cocoloașe.",
+        "Scade focul și amestecă cu o lingură de lemn 20 de minute, până se desprinde de pe pereții oalei.",
+        "Adaugă untul, pune în farfurii și acoperă cu brânză și smântână."
+      ]
+    }
+  }
+}

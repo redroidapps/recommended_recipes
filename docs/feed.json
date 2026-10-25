@@ -1,0 +1,436 @@
+{
+ "schemaVersion": 1,
+ "enabled": true,
+ "updatedAt": "2026-10-26",
+ "items": [
+  {
+   "id": "basbousa",
+   "category": "Dessert",
+   "country": "Egypt",
+   "prepMinutes": 15,
+   "cookMinutes": 35,
+   "servings": 12,
+   "title": {
+    "en": "Basbousa",
+    "ro": "Basbousa",
+    "ar": "بسبوسة"
+   },
+   "description": {
+    "en": "Soft semolina cake soaked in lemon syrup.",
+    "ro": "Prăjitură fragedă din griș, înmuiată în sirop de lămâie.",
+    "ar": "كيكة سميد طرية مغموسة بشراب الليمون."
+   },
+   "ingredients": [
+    "2 cups fine semolina",
+    "1 cup plain yoghurt",
+    "3/4 cup sugar",
+    "1/2 cup melted butter",
+    "1 tsp baking powder",
+    "12 blanched almonds",
+    "For the syrup: 1 cup sugar, 1 cup water, 1 tbsp lemon juice"
+   ],
+   "steps": [
+    "Heat the oven to 180 C and grease a square tin.",
+    "Mix the semolina, yoghurt, sugar, butter and baking powder and let it rest for 10 minutes.",
+    "Spread in the tin, cut into diamonds and press an almond into each piece.",
+    "Bake for 30 to 35 minutes until golden.",
+    "Meanwhile boil the syrup ingredients for 8 minutes and let it cool.",
+    "Pour the cool syrup over the hot cake and leave it to soak for 20 minutes."
+   ]
+  },
+  {
+   "id": "chana-masala",
+   "category": "Dinner",
+   "country": "India",
+   "prepMinutes": 10,
+   "cookMinutes": 25,
+   "servings": 4,
+   "title": {
+    "en": "Chana Masala",
+    "ro": "Chana masala",
+    "ar": "شانا ماسالا"
+   },
+   "description": {
+    "en": "Chickpeas simmered in a fragrant tomato and spice sauce.",
+    "ro": "Năut fiert într-un sos aromat de roșii și condimente.",
+    "ar": "حمص مطهو في صلصة طماطم وبهارات عطرة."
+   },
+   "ingredients": [
+    "2 tbsp oil",
+    "1 large onion, finely chopped",
+    "3 cloves garlic and 1 tbsp grated ginger",
+    "2 tsp garam masala",
+    "1 tsp ground cumin",
+    "1 tsp ground coriander",
+    "1/2 tsp turmeric",
+    "400 g chopped tomatoes",
+    "2 x 400 g cans chickpeas, drained",
+    "Salt",
+    "Fresh coriander and lemon to serve"
+   ],
+   "steps": [
+    "Cook the onion in the oil for 8 minutes until golden.",
+    "Add the garlic and ginger, then the spices, and stir for 1 minute.",
+    "Add the tomatoes and cook for 5 minutes until they break down.",
+    "Stir in the chickpeas with 1/2 cup water and simmer for 12 minutes.",
+    "Season, then finish with the coriander and a squeeze of lemon. Serve with rice or flatbread."
+   ]
+  },
+  {
+   "id": "hummus",
+   "category": "Snacks",
+   "country": "Lebanon",
+   "prepMinutes": 10,
+   "cookMinutes": 0,
+   "servings": 6,
+   "title": {
+    "en": "Hummus",
+    "ro": "Humus",
+    "ar": "حمّص"
+   },
+   "description": {
+    "en": "Smooth chickpea and tahini dip, ready in ten minutes.",
+    "ro": "Pastă fină de năut și tahini, gata în zece minute.",
+    "ar": "غموس ناعم من الحمص والطحينة جاهز في عشر دقائق."
+   },
+   "ingredients": [
+    "400 g canned chickpeas, drained",
+    "3 tbsp tahini",
+    "2 tbsp lemon juice",
+    "1 clove garlic",
+    "3 tbsp cold water",
+    "1/2 tsp salt",
+    "Olive oil and paprika to serve"
+   ],
+   "steps": [
+    "Blend the tahini and lemon juice for 1 minute until pale and thick.",
+    "Add the garlic, chickpeas and salt and blend until very smooth, adding the cold water a spoon at a time.",
+    "Spread on a plate, drizzle with olive oil and dust with paprika."
+   ],
+   "translations": {
+    "ar": {
+     "ingredients": [
+      "400 غرام حمص معلّب مصفّى",
+      "3 ملاعق كبيرة طحينة",
+      "ملعقتان كبيرتان عصير ليمون",
+      "فص ثوم",
+      "3 ملاعق كبيرة ماء بارد",
+      "نصف ملعقة صغيرة ملح",
+      "زيت زيتون وبابريكا للتقديم"
+     ],
+     "steps": [
+      "اخفقي الطحينة وعصير الليمون في الخلاط دقيقة حتى يصبح الخليط فاتحاً وسميكاً.",
+      "أضيفي الثوم والحمص والملح واخلطي حتى يصبح ناعماً جداً مع إضافة الماء البارد ملعقة ملعقة.",
+      "افرديه في صحن ورشي عليه زيت الزيتون والبابريكا."
+     ]
+    }
+   }
+  },
+  {
+   "id": "mamaliga-with-cheese",
+   "category": "Lunch",
+   "country": "Romania",
+   "prepMinutes": 5,
+   "cookMinutes": 25,
+   "servings": 4,
+   "title": {
+    "en": "Polenta with Cheese",
+    "ro": "Mămăligă cu brânză",
+    "ar": "بولينتا بالجبن"
+   },
+   "description": {
+    "en": "Creamy cornmeal porridge topped with salty cheese and sour cream.",
+    "ro": "Mămăligă cremoasă cu brânză sărată și smântână.",
+    "ar": "عصيدة ذرة كريمية مع جبن مالح وقشدة حامضة."
+   },
+   "ingredients": [
+    "1 L water",
+    "1 tsp salt",
+    "250 g coarse cornmeal",
+    "1 tbsp butter",
+    "150 g salty white cheese, crumbled",
+    "4 tbsp sour cream"
+   ],
+   "steps": [
+    "Bring the salted water to the boil.",
+    "Pour in the cornmeal in a thin stream, whisking so no lumps form.",
+    "Lower the heat and stir with a wooden spoon for 20 minutes until it pulls away from the pot.",
+    "Stir in the butter, spoon onto plates and top with the cheese and sour cream."
+   ],
+   "translations": {
+    "ro": {
+     "ingredients": [
+      "1 L de apă",
+      "1 linguriță de sare",
+      "250 g de mălai grosier",
+      "1 lingură de unt",
+      "150 g de brânză sărată, mărunțită",
+      "4 linguri de smântână"
+     ],
+     "steps": [
+      "Fierbe apa cu sare.",
+      "Toarnă mălaiul în fir subțire, amestecând continuu ca să nu se formeze cocoloașe.",
+      "Scade focul și amestecă cu o lingură de lemn 20 de minute, până se desprinde de pe pereții oalei.",
+      "Adaugă untul, pune în farfurii și acoperă cu brânză și smântână."
+     ]
+    }
+   }
+  },
+  {
+   "id": "maqluba",
+   "category": "Dinner",
+   "country": "Palestine",
+   "prepMinutes": 30,
+   "cookMinutes": 60,
+   "servings": 6,
+   "title": {
+    "en": "Maqluba",
+    "ro": "Maqluba",
+    "ar": "مقلوبة"
+   },
+   "description": {
+    "en": "A layered pot of rice, vegetables and chicken that is turned upside down to serve.",
+    "ro": "O oală cu straturi de orez, legume și pui, răsturnată la servire.",
+    "ar": "قدر من طبقات الأرز والخضار والدجاج يُقلب عند التقديم."
+   },
+   "ingredients": [
+    "1 whole chicken, cut into pieces",
+    "2 aubergines, sliced",
+    "1 small cauliflower, in florets",
+    "2 large tomatoes, sliced",
+    "2 cups basmati rice, rinsed",
+    "1 tsp allspice",
+    "1 tsp turmeric",
+    "1 cinnamon stick",
+    "Oil for frying",
+    "Salt and pepper",
+    "Toasted almonds to serve"
+   ],
+   "steps": [
+    "Simmer the chicken with the cinnamon, half the allspice and salt in 4 cups of water for 30 minutes. Keep the stock.",
+    "Fry the aubergine and cauliflower until golden and drain them.",
+    "Line the base of a heavy pot with the tomato slices, then layer the chicken, the vegetables and the rice.",
+    "Mix the turmeric and the rest of the allspice into 3 cups of the hot stock and pour it over the rice.",
+    "Cook covered on low heat for 35 minutes, then rest for 10 minutes.",
+    "Turn the pot over onto a large platter, lift it off, and top with almonds."
+   ],
+   "translations": {
+    "ar": {
+     "ingredients": [
+      "دجاجة كاملة مقطعة",
+      "حبتا باذنجان مقطعتان شرائح",
+      "قرنبيط صغير مقطع",
+      "حبتا طماطم كبيرتان مقطعتان شرائح",
+      "كوبان من أرز البسمتي مغسول",
+      "ملعقة صغيرة بهار حلو",
+      "ملعقة صغيرة كركم",
+      "عود قرفة",
+      "زيت للقلي",
+      "ملح وفلفل",
+      "لوز محمص للتقديم"
+     ],
+     "steps": [
+      "اسلقي الدجاج مع القرفة ونصف البهار الحلو والملح في 4 أكواب ماء لمدة 30 دقيقة واحتفظي بالمرق.",
+      "اقلي الباذنجان والقرنبيط حتى يحمرّا وصفّيهما.",
+      "افرشي قاع قدر ثقيل بشرائح الطماطم ثم رصّي الدجاج والخضار والأرز.",
+      "اخلطي الكركم وباقي البهار الحلو مع 3 أكواب من المرق الساخن وصبّيه فوق الأرز.",
+      "اتركيه مغطى على نار هادئة 35 دقيقة ثم دعيه يرتاح 10 دقائق.",
+      "اقلبي القدر على صحن كبير وارفعيه وزيّنيه باللوز."
+     ]
+    }
+   }
+  },
+  {
+   "id": "palacinte",
+   "category": "Dessert",
+   "country": "Romania",
+   "prepMinutes": 10,
+   "cookMinutes": 20,
+   "servings": 4,
+   "title": {
+    "en": "Romanian Crepes with Jam",
+    "ro": "Clătite cu dulceață",
+    "ar": "كريب روماني بالمربى"
+   },
+   "description": {
+    "en": "Thin crepes rolled around fruit jam.",
+    "ro": "Clătite subțiri rulate cu dulceață de fructe.",
+    "ar": "كريب رقيق ملفوف بمربى الفواكه."
+   },
+   "ingredients": [
+    "2 eggs",
+    "250 ml milk",
+    "125 ml sparkling water",
+    "150 g flour",
+    "1 tbsp sugar",
+    "Pinch of salt",
+    "Oil for the pan",
+    "Fruit jam to fill"
+   ],
+   "steps": [
+    "Whisk the eggs, milk and sparkling water, then add the flour, sugar and salt and whisk until smooth.",
+    "Rest the batter for 15 minutes.",
+    "Brush a pan with oil and cook a thin layer of batter for about 1 minute on each side.",
+    "Spread each crepe with jam, roll it up and serve warm."
+   ],
+   "translations": {
+    "ro": {
+     "ingredients": [
+      "2 ouă",
+      "250 ml de lapte",
+      "125 ml de apă minerală",
+      "150 g de făină",
+      "1 lingură de zahăr",
+      "Un praf de sare",
+      "Ulei pentru tigaie",
+      "Dulceață de fructe pentru umplut"
+     ],
+     "steps": [
+      "Bate ouăle cu laptele și apa minerală, apoi adaugă făina, zahărul și sarea și amestecă până se omogenizează.",
+      "Lasă aluatul să se odihnească 15 minute.",
+      "Unge tigaia cu ulei și coace un strat subțire de aluat cam 1 minut pe fiecare parte.",
+      "Unge fiecare clătită cu dulceață, rulează și servește caldă."
+     ]
+    }
+   }
+  },
+  {
+   "id": "red-lentil-soup",
+   "category": "Lunch",
+   "country": "Lebanon",
+   "prepMinutes": 10,
+   "cookMinutes": 30,
+   "servings": 4,
+   "title": {
+    "en": "Red Lentil Soup",
+    "ro": "Supă de linte roșie",
+    "ar": "شوربة العدس الأحمر"
+   },
+   "description": {
+    "en": "A smooth, lemony soup that comes together in one pot.",
+    "ro": "O supă cremoasă cu lămâie, gătită într-o singură oală.",
+    "ar": "شوربة ناعمة بالليمون تُطهى في قدر واحد."
+   },
+   "ingredients": [
+    "1 cup red lentils, rinsed",
+    "1 onion, chopped",
+    "2 carrots, diced",
+    "2 cloves garlic",
+    "1 tsp ground cumin",
+    "1 tbsp olive oil",
+    "1 L vegetable stock or water",
+    "Juice of 1 lemon",
+    "Salt and pepper"
+   ],
+   "steps": [
+    "Soften the onion, carrots and garlic in the oil for 5 minutes.",
+    "Stir in the cumin, then add the lentils and the stock.",
+    "Bring to the boil, then simmer for 20 minutes until the lentils collapse.",
+    "Blend until smooth, stir in the lemon juice and season to taste."
+   ]
+  },
+  {
+   "id": "shakshuka",
+   "category": "Breakfast",
+   "country": "Tunisia",
+   "prepMinutes": 10,
+   "cookMinutes": 20,
+   "servings": 2,
+   "title": {
+    "en": "Shakshuka",
+    "ro": "Shakshuka",
+    "ar": "شكشوكة"
+   },
+   "description": {
+    "en": "Eggs poached in a spiced tomato and pepper sauce.",
+    "ro": "Ouă pocate într-un sos condimentat de roșii și ardei.",
+    "ar": "بيض مطهو في صلصة طماطم وفلفل متبلة."
+   },
+   "ingredients": [
+    "2 tbsp olive oil",
+    "1 onion, diced",
+    "1 red pepper, diced",
+    "2 cloves garlic, minced",
+    "1 tsp paprika",
+    "1/2 tsp ground cumin",
+    "400 g canned chopped tomatoes",
+    "4 eggs",
+    "Salt and black pepper",
+    "Fresh parsley or coriander to serve"
+   ],
+   "steps": [
+    "Heat the oil in a wide pan and cook the onion and pepper for 6 minutes until soft.",
+    "Add the garlic, paprika and cumin and stir for 1 minute.",
+    "Pour in the tomatoes, season, and simmer for 8 minutes until thick.",
+    "Make four hollows in the sauce and crack an egg into each.",
+    "Cover and cook for 5 to 6 minutes until the whites are set. Scatter the herbs and serve with bread."
+   ]
+  },
+  {
+   "id": "spaghetti-aglio-e-olio",
+   "category": "Dinner",
+   "country": "Italy",
+   "prepMinutes": 5,
+   "cookMinutes": 12,
+   "servings": 2,
+   "title": {
+    "en": "Spaghetti Aglio e Olio",
+    "ro": "Spaghete aglio e olio",
+    "ar": "سباغيتي بالثوم والزيت"
+   },
+   "description": {
+    "en": "Garlic, olive oil and chilli: dinner in fifteen minutes.",
+    "ro": "Usturoi, ulei de măsline și ardei iute: cină în cincisprezece minute.",
+    "ar": "ثوم وزيت زيتون وفلفل حار: عشاء في خمس عشرة دقيقة."
+   },
+   "ingredients": [
+    "200 g spaghetti",
+    "4 tbsp olive oil",
+    "4 cloves garlic, thinly sliced",
+    "1/2 tsp chilli flakes",
+    "Small bunch of parsley, chopped",
+    "Salt"
+   ],
+   "steps": [
+    "Cook the spaghetti in well-salted water until just al dente. Keep a cup of the pasta water.",
+    "Warm the oil with the garlic over low heat until pale gold, then add the chilli.",
+    "Add the drained spaghetti and a splash of pasta water and toss for 1 minute.",
+    "Finish with the parsley and serve at once."
+   ]
+  },
+  {
+   "id": "tabbouleh",
+   "category": "Lunch",
+   "country": "Lebanon",
+   "prepMinutes": 20,
+   "cookMinutes": 0,
+   "servings": 4,
+   "title": {
+    "en": "Tabbouleh",
+    "ro": "Tabbouleh",
+    "ar": "تبولة"
+   },
+   "description": {
+    "en": "A fresh parsley salad with tomato, mint and bulgur.",
+    "ro": "O salată proaspătă de pătrunjel cu roșii, mentă și bulgur.",
+    "ar": "سلطة بقدونس طازجة مع الطماطم والنعناع والبرغل."
+   },
+   "ingredients": [
+    "3 bunches flat-leaf parsley, finely chopped",
+    "1/4 cup fine bulgur, soaked in water for 15 minutes and drained",
+    "3 ripe tomatoes, diced",
+    "1/2 cup chopped mint",
+    "4 spring onions, sliced",
+    "4 tbsp lemon juice",
+    "4 tbsp olive oil",
+    "Salt and pepper"
+   ],
+   "steps": [
+    "Squeeze the soaked bulgur dry and put it in a bowl.",
+    "Add the parsley, mint, tomatoes and spring onions.",
+    "Dress with the lemon juice and olive oil, season, and toss gently.",
+    "Rest for 10 minutes and serve with crisp lettuce leaves."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "chana-masala",
+  "category": "Dinner",
+  "country": "India",
+  "prepMinutes": 10,
+  "cookMinutes": 25,
+  "servings": 4,
+  "title": {
+    "en": "Chana Masala",
+    "ro": "Chana masala",
+    "ar": "شانا ماسالا"
+  },
+  "description": {
+    "en": "Chickpeas simmered in a fragrant tomato and spice sauce.",
+    "ro": "Năut fiert într-un sos aromat de roșii și condimente.",
+    "ar": "حمص مطهو في صلصة طماطم وبهارات عطرة."
+  },
+  "ingredients": [
+    "2 tbsp oil",
+    "1 large onion, finely chopped",
+    "3 cloves garlic and 1 tbsp grated ginger",
+    "2 tsp garam masala",
+    "1 tsp ground cumin",
+    "1 tsp ground coriander",
+    "1/2 tsp turmeric",
+    "400 g chopped tomatoes",
+    "2 x 400 g cans chickpeas, drained",
+    "Salt",
+    "Fresh coriander and lemon to serve"
+  ],
+  "steps": [
+    "Cook the onion in the oil for 8 minutes until golden.",
+    "Add the garlic and ginger, then the spices, and stir for 1 minute.",
+    "Add the tomatoes and cook for 5 minutes until they break down.",
+    "Stir in the chickpeas with 1/2 cup water and simmer for 12 minutes.",
+    "Season, then finish with the coriander and a squeeze of lemon. Serve with rice or flatbread."
+  ]
+}
