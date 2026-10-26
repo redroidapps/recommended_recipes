@@ -110,6 +110,12 @@ def check_recipe(path):
             errors.append(f'image: docs/{image} does not exist')
         elif os.path.getsize(p) > MAX_IMAGE_BYTES:
             errors.append(f'image: larger than {MAX_IMAGE_BYTES // 1024} KB')
+    added = r.get('added')
+    if added is not None:
+        try:
+            datetime.date.fromisoformat(added)
+        except Exception:  # noqa: BLE001
+            errors.append('added: a date like 2026-10-26 (the day the recipe was added; shown first for 7 days)')
     order = r.get('order', 1000)
     if not isinstance(order, int) or isinstance(order, bool):
         errors.append('order: whole number (optional, lower comes first)')
@@ -140,6 +146,8 @@ def build_feed(recipes, enabled=True):
             item['translations'] = r['translations']
         if r.get('image'):
             item['imageUrl'] = BASE_URL + r['image']
+        if r.get('added'):
+            item['addedAt'] = r['added']
         items.append(item)
     return {'schemaVersion': SCHEMA_VERSION, 'enabled': enabled, 'updatedAt': datetime.date.today().isoformat(), 'items': items}
 
