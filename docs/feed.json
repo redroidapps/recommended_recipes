@@ -330,6 +330,96 @@
    ]
   },
   {
+   "id": "rishtayeh",
+   "category": "Lunch",
+   "country": "Palestine",
+   "prepMinutes": 15,
+   "cookMinutes": 15,
+   "servings": 3,
+   "title": {
+    "en": "Rishtayeh (Red Lentils with Pasta)",
+    "ro": "Rishtayeh (linte roșie cu paste)",
+    "ar": "عدس رشتاية"
+   },
+   "description": {
+    "en": "Creamy red lentils and pasta topped with golden onions, sumac and parsley.",
+    "ro": "Linte roșie cremoasă cu paste, cu ceapă aurie, sumac și pătrunjel deasupra.",
+    "ar": "عدس أحمر كريمي مع المعكرونة، يُزيَّن بالبصل الذهبي والسماق والبقدونس."
+   },
+   "ingredients": [
+    "1 cup red split lentils, rinsed",
+    "3/4 cup short pasta or broken noodles",
+    "4 cups water",
+    "1 tsp ground cumin",
+    "1/4 tsp turmeric",
+    "1/4 tsp sea salt, or to taste",
+    "1/4 cup extra virgin olive oil",
+    "1 to 2 yellow onions, sliced",
+    "1 small red onion, finely chopped",
+    "1 tsp sumac",
+    "115 g (4 oz) parsley, finely chopped"
+   ],
+   "steps": [
+    "Fry the sliced yellow onions in the olive oil over high heat until deep golden. Lift them out and keep the oil in the pot.",
+    "Add the rinsed lentils and the water, bring to the boil and cook for 2 minutes.",
+    "Add the pasta with the salt, cumin and turmeric.",
+    "Lower the heat and simmer uncovered for 10 to 15 minutes, stirring often, until the pasta is soft and the lentils turn thick and creamy. Add a little hot water if it gets too thick too soon.",
+    "Stir in the onion oil and some of the fried onions.",
+    "Mix the red onion with the sumac.",
+    "Serve warm or at room temperature, topped with the fried onions, the parsley and the sumac onions."
+   ],
+   "translations": {
+    "ro": {
+     "ingredients": [
+      "1 cană de linte roșie, clătită",
+      "3/4 cană de paste scurte sau tăiței rupți",
+      "4 căni de apă",
+      "1 linguriță de chimion măcinat",
+      "1/4 linguriță de turmeric",
+      "1/4 linguriță de sare de mare, după gust",
+      "1/4 cană de ulei de măsline extravirgin",
+      "1-2 cepe galbene, tăiate felii",
+      "1 ceapă roșie mică, tocată mărunt",
+      "1 linguriță de sumac",
+      "115 g de pătrunjel, tocat mărunt"
+     ],
+     "steps": [
+      "Prăjește ceapa galbenă în uleiul de măsline la foc mare până devine aurie închis. Scoate-o și păstrează uleiul în oală.",
+      "Adaugă lintea clătită și apa, dă în clocot și fierbe 2 minute.",
+      "Adaugă pastele, sarea, chimionul și turmericul.",
+      "Dă focul mic și fierbe fără capac 10-15 minute, amestecând des, până pastele sunt moi și lintea devine groasă și cremoasă. Adaugă puțină apă fierbinte dacă se îngroașă prea repede.",
+      "Amestecă uleiul cu ceapă și o parte din ceapa prăjită.",
+      "Amestecă ceapa roșie cu sumacul.",
+      "Servește cald sau la temperatura camerei, cu ceapa prăjită, pătrunjelul și ceapa cu sumac deasupra."
+     ]
+    },
+    "ar": {
+     "ingredients": [
+      "كوب عدس أحمر مجروش، مغسول",
+      "ثلاثة أرباع كوب معكرونة قصيرة أو شعيرية مكسّرة",
+      "4 أكواب ماء",
+      "ملعقة صغيرة كمون مطحون",
+      "ربع ملعقة صغيرة كركم",
+      "ربع ملعقة صغيرة ملح بحري، حسب الرغبة",
+      "ربع كوب زيت زيتون بكر ممتاز",
+      "بصلة إلى بصلتين صفراوين، مقطعتان شرائح",
+      "بصلة حمراء صغيرة، مفرومة ناعماً",
+      "ملعقة صغيرة سماق",
+      "115 غراماً من البقدونس، مفروم ناعماً"
+     ],
+     "steps": [
+      "اقلي شرائح البصل الأصفر في زيت الزيتون على نار عالية حتى يصبح ذهبياً غامقاً، ثم ارفعيه واتركي الزيت في القدر.",
+      "أضيفي العدس المغسول والماء، واتركيه حتى يغلي ويطهى دقيقتين.",
+      "أضيفي المعكرونة مع الملح والكمون والكركم.",
+      "خففي النار واتركيه دون غطاء 10 إلى 15 دقيقة مع التحريك المتكرر، حتى تنضج المعكرونة ويصبح العدس كثيفاً وكريمياً. أضيفي قليلاً من الماء الساخن إذا ثقل بسرعة.",
+      "أضيفي زيت البصل وجزءاً من البصل المقلي وحرّكي.",
+      "اخلطي البصل الأحمر مع السماق.",
+      "قدّميه دافئاً أو بحرارة الغرفة، مزيّناً بالبصل المقلي والبقدونس والبصل بالسماق."
+     ]
+    }
+   }
+  },
+  {
    "id": "shakshuka",
    "category": "Breakfast",
    "country": "Tunisia",
